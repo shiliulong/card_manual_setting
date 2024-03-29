@@ -1,0 +1,1 @@
+![](https://github.com/shiliulong/PicktureBed/blob/master/game_card_setter.png)
